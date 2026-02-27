@@ -18,6 +18,14 @@ Aspiring SOC Analyst interested in:
 - Wireshark
 - Linux CLI tools (grep, cat, chmod, netstat)
 
+## Current Progress
+
+- Completed foundational Linux CLI exercises
+- Building structured lab documentation
+- Practicing log analysis and system inspection
+
+Last updated: February 2026
+
 ## Projects
 This repository documents my cybersecurity learning journey and practical labs.
 
